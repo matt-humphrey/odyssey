@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "odyssey"
+  site-url: "https://matt-humphrey.github.io/odyssey"
+  description: "Navigate the trials and tribulations of data exploration, cleaning, validation, and harmonisation"
+  repo-branch: main
+  repo-url: "https://github.com/matt-humphrey/odyssey"
